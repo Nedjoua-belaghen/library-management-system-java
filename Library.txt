@@ -1,0 +1,10 @@
+ID: 1, Name: Java Programming, Type: Programming
+ID: 2, Name: Python Basics, Type: Programming
+ID: 3, Name: Artificial Intelligence, Type: Technology
+ID: 4, Name: Data Structures, Type: Computer Science
+ID: 5, Name: Operating Systems, Type: Computer Science
+ID: 6, Name: Database Systems, Type: IT
+ID: 7, Name: Machine Learning, Type: AI
+ID: 8, Name: Deep Learning, Type: AI
+ID: 9, Name: Networks, Type: IT
+ID: 10, Name: Cyber Security, Type: Security
